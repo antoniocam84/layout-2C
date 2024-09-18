@@ -20,6 +20,8 @@ body {
     height: 150px;
     border-radius: 20%;
     border: 5px solid white;
+    justify-content: center;
+    align-items: center;
 }
 
 .cabecalho-lista-item{
