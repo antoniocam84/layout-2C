@@ -60,7 +60,7 @@ body {
 }
 
 .estudante-icone{
-    width: 24px;
+    width: 34px;
     padding: 4px 8px;
 }
 
@@ -91,7 +91,7 @@ body {
 }
 
 p{
-    text-align: left;
+    text-align: justify;
 }
 
 h2{
