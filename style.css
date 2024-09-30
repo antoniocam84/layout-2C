@@ -7,11 +7,11 @@ body {
 }
 .cabecalho {
     background-color: #424E61;
-    color: black;
+    color: white;
     display: flex;
     justify-content: space-around;
     align-items:center;
-    padding: 15px 0;
+    padding: 20px 0;
 }
 .cabecalho-alura{
     width: 10%;
